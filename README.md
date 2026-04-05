@@ -1,4 +1,4 @@
-# amp-threads
+# cc-amp-threads
 
 claude code skill for accessing [amp](https://ampcode.com) conversation threads.
 
